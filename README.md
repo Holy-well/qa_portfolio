@@ -16,3 +16,4 @@ CV — https://docs.google.com/document/d/1qmgzStw6g8FiQxcRsaZg4L50CmCe3aKM/edit
 
 3) Часть финальной работы на учебных курсах (web-интерфейс, использование postman и багрепорты): https://docs.google.com/document/d/1-vT9KRcKYbpbPFGMweHhjdRVxAUYKDGZ/edit?usp=sharing&ouid=105022735845228758857&rtpof=true&sd=true
 Отчет в гитхабе: https://github.com/Holy-well/qa_portfolio/blob/main/Partial_Final_Student_QA_Report.docx
+Коллекция в Postman: https://github.com/Holy-well/qa_portfolio/blob/main/postman.PNG или https://www.postman.com/docking-module-cosmonaut-83296073/portfolio/collection/ov99oj0/final
